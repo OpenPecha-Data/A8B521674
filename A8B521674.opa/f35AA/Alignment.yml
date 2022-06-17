@@ -1,0 +1,19 @@
+segment_sources:
+  IB2B68BF8:
+    type: origin_type
+    relation: translation
+    language: en
+  I8B9B98B9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c99b565b639d49a5928425707785f6d9:
+    IB2B68BF8: 24f9012f5bad4662849218753aef65ff
+    I8B9B98B9: 5515ce425618441da731561efe7ee673
+  46d251707de14b47970c16a27e1ef171:
+    IB2B68BF8: 8ffdd7dfe1f3478283e304687e707d66
+    I8B9B98B9: 91dbe5e09dd24487b9b9771d2d3d118a
+  520086a9559e4e20bbcf123578e92b75:
+    IB2B68BF8: 31913be0e0554c5ab3c7cb412b97559c
+    I8B9B98B9: 6c00ce8a78304ba3aa019d529c0a1ce1
